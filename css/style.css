@@ -1,0 +1,22 @@
+.button{
+    width: 50px;
+    height: 25px;
+    display: block;
+    margin: auto;
+}
+.cuerpo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-align: center;
+    color: #faebd7;
+    background-color: black;
+}
+.texto{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-align: justify;
+    color: #faebd7;
+}
+.texto_rpta{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-align: justify;
+    color: #ff5752;
+}

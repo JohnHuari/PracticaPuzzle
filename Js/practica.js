@@ -149,3 +149,5 @@ btn9.onclick = () => {
 btn0.onclick = () => {
   boton0();
 };
+
+console.log("prueba");
